@@ -4,7 +4,7 @@ Remote-first professional, currently based in São Paulo, Brazil
 
 ## 👨‍💻 Senior Full Stack Engineer | PHP • JavaScript • AWS
 
-I'm a full Stack Engineer with 13+ years of experience enhancing legacy systems, boosting reliability, and building scalable product features across the PHP & JavaScript ecosystem.
+I'm a full Stack engineer with 13+ years of experience enhancing legacy systems, boosting reliability, and building scalable product features across the PHP & JavaScript ecosystem.
 
 I've worked on both international and local projects, always focused on **Clean Code**, **TDD**, **CI/CD**, and agile team collaboration. My goal is to build efficient, testable, and maintainable solutions whether on the backend, frontend, or in the cloud.
 
