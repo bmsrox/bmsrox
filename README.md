@@ -10,20 +10,20 @@ I'm a Senior Full-Stack Software Engineer with 12+ years of experience, with a p
 
 Some examples:
 
-→ Co-developed the real-time collaborative features of a SaaS workforce analytics platform (Beamible) used in production by Google, Suncorp Bank, and Western Power, taking it from early wireframes to enterprise and government scale over 4 years.
-→ Led the technical rescue of a business-critical platform delivered non-functional to FTD Educação, shipping a tested, working system a month ahead of an 8-month deadline set by leadership.
-→ Delivered an AWS serverless MVP from scratch in ~72 hours, learning the stack on the job.
-→ Automated processing of 1,000–3,000 government PDFs, cutting analysis time from weeks to hours.
-→ Replaced manual spreadsheet tracking by building a real-time poker tournament management platform from scratch, automating player tournament registrations, rankings, reporting and live on-screen displays.
-→ Contributed to the development of NeoCDS, an embedded queue-management platform running across 200+ distributed client sites, and later took over as the sole engineer responsible for its maintenance and stability.
+- Co-developed the real-time collaborative features of a SaaS workforce analytics platform (Beamible) used in production by Google, Suncorp Bank, and Western Power, taking it from early wireframes to enterprise and government scale over 4 years.
+- Led the technical rescue of a business-critical platform delivered non-functional to FTD Educação, shipping a tested, working system a month ahead of an 8-month deadline set by leadership.
+- Delivered an AWS serverless MVP from scratch in ~72 hours, learning the stack on the job.
+- Automated processing of 1,000–3,000 government PDFs, cutting analysis time from weeks to hours.
+- Replaced manual spreadsheet tracking by building a real-time poker tournament management platform from scratch, automating player tournament registrations, rankings, reporting and live on-screen displays.
+- Contributed to the development of NeoCDS, an embedded queue-management platform running across 200+ distributed client sites, and later took over as the sole engineer responsible for its maintenance and stability.
 
 Today I'm particularly interested in helping companies/startups with:
 
-→ Full Stack/Backend/API architecture
-→ SaaS development
-→ Legacy application modernization
-→ Integration, performance, and reliability
-→ Fractional senior engineering
+- Full Stack/Backend/API architecture
+- SaaS development
+- Legacy application modernization
+- Integration, performance, and reliability
+- Fractional senior engineering
 
 Stack: JavaScript/TypeScript, React.js, Node.js, PHP, Laravel, Yii2, MySQL/Postgres, AWS/GCP, Docker
 
